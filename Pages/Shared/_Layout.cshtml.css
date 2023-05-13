@@ -44,11 +44,11 @@ button.accept-policy {
   bottom: 0;
   width: 100%;
   white-space: nowrap;
-  line-height: 60px;
+ /* line-height: 60px;*/
 }
 
 .credits {
   font-weight: lighter ;
-  font-size: x-small;
+  font-size: smaller;
 
 }
